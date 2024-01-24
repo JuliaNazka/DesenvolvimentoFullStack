@@ -1,0 +1,30 @@
+
+<input placeholder="Distancia em KM" id="campoDistanciaEmKM" />
+<input placeholder="Tempo em minutos" id="campoTempoEmMin" />
+<button onclick="calculaCorrida()">Calcula</button>
+
+<SCRIPT> 
+    function calculaCorrida() {
+        // Organizar as entradas e fazer a regra de negócio
+        var tarifaDinamica = 1.4
+        var distanciakm = campoDistanciaEmKM.value * tarifaDinamica;
+        var tempomin =  campoTempoEmMin.value * 0.26; 
+        valorDaCorrida = distanciakm + tempomin;
+
+        alert("O valor da Corrida é R$" + valorDaCorrida); // executa na hora
+
+    }
+
+    
+
+    /*
+Preço Base da Corrida 
+Custo Fixo 
+Horários e regiões de maior
+
+
+- distancia em km
+- tempo em minutos
+    */
+</SCRIPT>
+

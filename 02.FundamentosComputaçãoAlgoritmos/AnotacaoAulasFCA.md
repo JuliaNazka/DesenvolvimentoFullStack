@@ -102,5 +102,12 @@ Otimizar os códigos e sites , otimizar as imagens, diminuir a latência (a dist
 	- Ver o resultado 
 
 • Código 
-	alert(prompt('Quando você nasceu?'));
+	alert(2022-prompt('Quando você nasceu?'));
 	
+• Exemplo 2 da aula 
+	- utilizar a variável 
+	- Saber os valores que precisa para definir 
+	- Para executar algo deve usar ()
+	- Operações de soma e multiplicação no código 
+	- function (hdhdhdh) { }
+	- id="" - resgata em script um campo html
