@@ -1,4 +1,4 @@
-##ca
+##FCA
 
 #O que é base na programação 
 
@@ -111,3 +111,20 @@ Otimizar os códigos e sites , otimizar as imagens, diminuir a latência (a dist
 	- Operações de soma e multiplicação no código 
 	- function (hdhdhdh) { }
 	- id="" - resgata em script um campo html
+	- trabalhar com dinheiro é complexo no mundo da tecnologia - deve mostrar 2 casas para o usuário
+	- == - compara um valor 
+	- return; - não esquecer de para a função, se não ela executará infinitamente 
+	- Usando api do google MAPs - https://github.com/googlemaps/google-maps-services-js
+
+	Visto no exemplo - tópicos básicos para qualquer linguagem de programação que for trabalhar
+	- 3 campos e um botão 
+	- criação de variaveçl 
+	- formatação de função 
+	- parametro de função 
+	- retorno de função 
+
+
+resultado.toFixed(2); - traz para duas casas decimais o resultado 
+resultado.toFixed(2).replace('.',','); - muda o . para , para chegar mais proximo da moeda brasileira 
+
+NÃO TENHA MEDO DE ERRA AO TENTAR FAZER ALGO
